@@ -29,10 +29,10 @@ def add_task(user_id,  tag, data, description, cycle):
 
 
 def get_task(user_id, task_id):
-    con = sqlite3.connect('db/database1')
+    con = sqlite3.connect('DB')
     cursor = con.cursor()
     command = cursor.execute(
-        f"""SELECT * FROM task{user_id} WHERE id={task_id}"""
+        f"""SELECT * FROM tasks{user_id} WHERE id={task_id}"""
     ).fetchall()
     cursor.close()
     con.close()
@@ -44,11 +44,24 @@ def delete_task(data):
 
 
 def get_tagged_tasks(user_id, tag):
-    con = sqlite3.connect('db/database1')
+    con = sqlite3.connect('DB')
     cursor = con.cursor()
     command = cursor.execute(
-        f"""SELECT * FROM task{user_id} WHERE tag='{tag}'"""
+        f"""SELECT * FROM tasks{user_id} WHERE tag='{tag}'"""
     ).fetchall()
     cursor.close()
     con.close()
-    return command[0]
+    return command
+
+
+def get_all_tasks(user_id):
+    con = sqlite3.connect('DB')
+    cursor = con.cursor()
+    command = cursor.execute(
+        f"""SELECT data, description FROM tasks{user_id}"""
+    ).fetchall()
+    cursor.close()
+    con.close()
+    return command
+
+print(['\n'.join(i) for i in get_all_tasks(804729534)])

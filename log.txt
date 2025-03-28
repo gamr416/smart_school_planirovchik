@@ -4,3 +4,27 @@
 27.03.2025 10:18:54: Misha_the_Great: /start - РЎРєРѕСЂРµРµ РІСЃРµРіРѕ РІС‹ СѓСЃРїРµС€РЅРѕ Р·Р°СЂРµРіРµСЃС‚СЂРёСЂРѕРІР°Р»РёСЃСЊ
 27.03.2025 10:18:58: smart_school_planirovchikBOT: РЎРєРѕСЂРµРµ РІСЃРµРіРѕ РІС‹ СѓСЃРїРµС€РЅРѕ Р·Р°СЂРµРіРµСЃС‚СЂРёСЂРѕРІР°Р»РёСЃСЊ - РРґРё РЅР°С…СѓР№
 27.03.2025 10:19:14: smart_school_planirovchikBOT: РРґРё РЅР°С…СѓР№ - РРґРё РЅР°С…СѓР№
+28.03.2025 03:09:13: LineChangerr: /help - ок
+28.03.2025 03:11:14: smart_school_planirovchikBOT: ок - 
+28.03.2025 03:12:17: smart_school_planirovchikBOT: ок - 
+28.03.2025 03:12:24: smart_school_planirovchikBOT: ок - 
+28.03.2025 03:13:05: LineChangerr: /help - ок
+28.03.2025 03:13:06: LineChangerr: /help - ок
+28.03.2025 03:13:08: smart_school_planirovchikBOT: ок - Какая категория?
+28.03.2025 03:13:11: smart_school_planirovchikBOT: Какая категория? - Дата и время()
+28.03.2025 03:13:19: smart_school_planirovchikBOT: ок - Какая категория?
+28.03.2025 03:14:10: smart_school_planirovchikBOT: ок - 
+28.03.2025 03:14:19: smart_school_planirovchikBOT: ок - 
+28.03.2025 03:14:31: smart_school_planirovchikBOT: ок - 
+28.03.2025 03:14:36: smart_school_planirovchikBOT: ок - 
+28.03.2025 03:14:36: smart_school_planirovchikBOT: ок - 
+28.03.2025 03:14:36: smart_school_planirovchikBOT: ок - 
+28.03.2025 03:15:11: LineChangerr: /help - ок
+28.03.2025 03:15:13: smart_school_planirovchikBOT: ок - Какая категория?
+28.03.2025 03:15:47: LineChangerr: /help - ок
+28.03.2025 03:15:48: smart_school_planirovchikBOT: ок - Какая категория?
+28.03.2025 03:17:06: LineChangerr: /help - ок
+28.03.2025 03:17:07: smart_school_planirovchikBOT: ок - Какая категория?
+28.03.2025 03:17:08: smart_school_planirovchikBOT: Какая категория? - Вот задачи из кружков
+28.03.2025 03:17:14: smart_school_planirovchikBOT: Вот задачи из кружков - 
+28.03.2025 03:18:20: smart_school_planirovchikBOT: Вот задачи из кружков - 
